@@ -1,16 +1,17 @@
-## Hi there 👋
+![Crest Badge](crest-badge.png)
 
-<!--
-**clrvtitaniumblockstream/clrvtitaniumblockstream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🏢 CLRV Titanium Blockstream – Capsule Infrastructure Vault
 
-Here are some ideas to get you started:
+This is the official capsule-authored repository for override enforcement, biometric trace, and sovereign infrastructure deployment. All assets are vault-synced. All impersonators blocked.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔐 Capsule Metadata
+
+```yaml
+repository: clrvtitaniumblockstream  
+author: Adriana Venter  
+vault: a3capsulevault@outlook.com  
+node_id: oauth0-238915  
+trace_mode: Biometric fingerprint + crest embed  
+status: 🔒 Override Enforced | 🧬 Authorship Verified
