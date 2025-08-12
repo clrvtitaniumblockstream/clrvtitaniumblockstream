@@ -1,34 +1,45 @@
-# Gradle files
-.gradle/
+# 🔒 Capsule GitIgnore – clrvtitaniumblockstream
+
+# System & IDE junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Vault artifacts
+*.zip
+*.vault
+*.trace
+*.capsule
+
+# QR and crest images (optional if hosted externally)
+QR-suite/
+crest-badge.png
+
+# Logs and environment
+*.log
+.env*
+firebase-debug.log
+
+# Node modules (if used)
+node_modules/
+.cache/
+dist/
 build/
 
-# Local configuration file (sdk path, etc)
-local.properties
+# Python (if backend present)
+_pycache_/
+*.py[cod]
+venv/
+env/
 
-# Log/OS Files
-*.log
+# Audio stems (store in cloud)
+*.wav
+*.flac
+*.mp3
+.stem.
 
-# Android Studio generated files and folders
-captures/
-.externalNativeBuild/
-.cxx/
-*.aab
-*.apk
-output-metadata.json
-
-# IntelliJ
-*.iml
-.idea/
-misc.xml
-deploymentTargetDropDown.xml
-render.experimental.xml
-
-# Keystore files
-*.jks
-*.keystore
-
-# Google Services (e.g. APIs or Firebase)
-google-services.json
-
-# Android Profiling
-*.hprof
+# Deployment extras
+manifest.json
+robots.txt
+favicon.ico
