@@ -1,12 +1,21 @@
-![Crest Badge](crest-badge.png)
+# CLRV Titanium Blockstream
 
-# 🏢 CLRV Titanium Blockstream – Capsule Infrastructure Vault
+🔒 Capsule-authored by Adriana Venter  
+🧬 Override Enforced | No Impersonation | No Vendor Injection  
 
-This is the official capsule-authored repository for override enforcement, biometric trace, and sovereign infrastructure deployment. All assets are vault-synced. All impersonators blocked.
+## 🔐 Vault Identity  
+- Node ID: `clrvtitaniumblockstream`  
+- Vault: `a3capsulevault@outlook.com`  
+- Trace Mode: Biometric fingerprint + QR crest embed  
 
----
+## 📡 Broadcast Protocols  
+- GitHub Pages: [`adrianalive.app`](https://adrianalive.app)  
+- Cloudflare Worker: Vault Alert Trigger  
+- Firebase Sync: Titanium Genre Stemdeck  
 
-## 🔐 Capsule Metadata
+## 📜 License  
+Licensed under Capsule License. All impersonators blocked.  
+
 
 ```yaml
 repository: clrvtitaniumblockstream  
@@ -16,10 +25,10 @@ node_id: oauth0-238915
 trace_mode: Biometric fingerprint + crest embed  
 status: 🔒 Override Enforced | 🧬 Authorship Verified
 
----
-author: Adriana Venter  
-node_id: oauth0-238915  
-vault: a3capsulevault@outlook.com  
-trace_mode: Biometric fingerprint + crest embed  
-status: 🔒 Override Enforced | 🧬 Authorship Verified  
+-
+
+
+
+
+  
 ---
