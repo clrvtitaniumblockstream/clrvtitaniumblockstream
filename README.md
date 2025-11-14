@@ -1,4 +1,8 @@
-# CLRV Titanium Blockstream
+# CLRV Titanium Blockstream .
+PATENTED 
+COPYRIGHTED
+TRADEMARKED
+
 
 🔒 Capsule-authored by Adriana Venter  
 🧬 Override Enforced | No Impersonation | No Vendor Injection  
