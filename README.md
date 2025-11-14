@@ -1,4 +1,4 @@
-# CLRV Titanium Blockstream .
+# CLRV Titanium Blockstream Bitstream Digistream
 PATENTED 
 COPYRIGHTED
 TRADEMARKED
