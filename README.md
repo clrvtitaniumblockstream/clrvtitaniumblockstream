@@ -2,7 +2,8 @@
 PATENTED 
 COPYRIGHTED
 TRADEMARKED
-
+env:
+  API_KEY: ${{ secrets.API_KEY }}
 
 🔒 Capsule-authored by Adriana Venter  
 🧬 Override Enforced | No Impersonation | No Vendor Injection  
