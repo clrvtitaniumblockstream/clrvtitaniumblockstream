@@ -1,6 +1,6 @@
 # CLRV Titanium Blockstream Bitstream Digistream
 PATENTED 
-COPYRIGHTED
+COPYRIGHTED.
 TRADEMARKED
 env:
   API_KEY: ${{ secrets.API_KEY }}
