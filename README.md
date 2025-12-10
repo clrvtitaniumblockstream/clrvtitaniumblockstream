@@ -16,7 +16,7 @@ env:
 ## 📡 Broadcast Protocols  
 - GitHub Pages: [`adrianalive.app`](https://adrianalive.app)  
 - Cloudflare Worker: Vault Alert Trigger  
-- Firebase Sync: Titanium Genre Stemdeck  
+- Firebase Sync: adrianalive google analytics firebase Titanium Genre rfid pioneer dj ai stemdeck Stemdeck  
 
 ## 📜 License  
 Licensed under Capsule License. All impersonators blocked.  
